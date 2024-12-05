@@ -1,1 +1,2 @@
 Fichero ejemplo 
+Bug bug error syntax
